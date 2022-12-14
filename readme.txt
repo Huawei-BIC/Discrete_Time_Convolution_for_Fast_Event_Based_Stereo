@@ -1,16 +1,14 @@
-#################################################################
+# Code
+___
 This code is a demo of our CVPR 2022 paper "Discrete time convolution for 
 fast event-based stereo".
-#################################################################
 
 
-########################dataset#########################
+# dataset
+___
 Change the MVSEC/DSEC dataset address in dataset.py. 
-################################################################
 
-
-#########################code for mvsec############################
-
+# cofr for mvsec
 code_of_mvsec/DTC_pds_for_mvsec
 usage: DTC-pds
 
@@ -20,12 +18,9 @@ usage: DTC-spade
 For training/test procedure, just execute:
 bash train.sh/test.sh
 
-####################################################################
 
 
-
-###########################code for Dsec#############################
-
+# code for Dsec
 code_of_Dsec/LTC_Dsec
 usage: generate DSEC website test result by DTC-PDS
 
