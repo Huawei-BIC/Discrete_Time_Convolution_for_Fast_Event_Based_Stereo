@@ -2,7 +2,7 @@
 This code is a demo of CVPR 2022 paper "Discrete time convolution for 
 fast event-based stereo".
 
-Our code is develop based on the code from ICCV2019 paper "Learning an event sequence embedding 
+Our code is developed based on the code from ICCV2019 paper "Learning an event sequence embedding 
 for dense event-based deep stereo"
 
 paper: https://openaccess.thecvf.com/content_ICCV_2019/papers/Tulyakov_Learning_an_Event_Sequence_Embedding_for_Dense_Event-Based_Deep_Stereo_ICCV_2019_paper.pdf
