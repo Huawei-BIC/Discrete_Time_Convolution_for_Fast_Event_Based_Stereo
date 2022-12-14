@@ -7,31 +7,31 @@ fast event-based stereo".
 Change the MVSEC/DSEC dataset address in dataset.py. 
 
 # cofe for mvsec
-- code_of_mvsec/DTC_pds_for_mvsec
+- code_of_mvsec/DTC_pds_for_mvsec \
   usage: DTC-pds
 
-- code_of_mvsec/DTC_SPADE_for_mvsec
+- code_of_mvsec/DTC_SPADE_for_mvsec \
   usage: DTC-spade
 
-- For training/test procedure, just execute:
+For training/test procedure, just execute: \
   bash train.sh/test.sh
 
 
 
 # code for Dsec
-code_of_Dsec/LTC_Dsec
-usage: generate DSEC website test result by DTC-PDS
+- code_of_Dsec/LTC_Dsec \
+  usage: generate DSEC website test result by DTC-PDS
 
-code_of_Dsec/LTC_Dsec_spade
-usage: generate DSEC website test result by DTC-SPADE
+- code_of_Dsec/LTC_Dsec_spade \
+  usage: generate DSEC website test result by DTC-SPADE
 
-code_of_Dsec/LTC_for_Dsec/LTC_Dsec_clear_version
-usage: DTC-PDS
+- code_of_Dsec/LTC_for_Dsec/LTC_Dsec_clear_version \
+  usage: DTC-PDS
 
-code_of_Dsec/LTC_for_Dsec/LTC_Dsec_spade_clear_version
-usage: DTC-SPADE
+- code_of_Dsec/LTC_for_Dsec/LTC_Dsec_spade_clear_version \
+  usage: DTC-SPADE
 
-For training/test procedure, just execute:
+For training/test procedure, just execute: \
 bash train.sh/test.sh
 
 
