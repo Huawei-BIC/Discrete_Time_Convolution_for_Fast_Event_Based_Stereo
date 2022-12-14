@@ -1,22 +1,6 @@
 #################################################################
-This code is a demo of CVPR 2022 paper "Discrete time convolution for 
+This code is a demo of our CVPR 2022 paper "Discrete time convolution for 
 fast event-based stereo".
-
-Our code is developed based on the code from ICCV2019 paper "Learning an event sequence embedding 
-for dense event-based deep stereo"
-
-paper: https://openaccess.thecvf.com/content_ICCV_2019/papers/Tulyakov_Learning_an_Event_Sequence_Embedding_for_Dense_Event-Based_Deep_Stereo_ICCV_2019_paper.pdf
-code: https://github.com/tlkvstepan/event_stereo_ICCV2019
-
-@inproceedings{tulyakov-et-al-2019,
-  author = {Tulyakov, S. and Fleuret, F. and Kiefel, M. and Gehler, P. and Hirsch, M.},
-  title = {Learning an event sequence embedding for event-based deep stereo},
-  booktitle = {Proceedings of the IEEE International Conference on Computer Vision (ICCV)},
-  year = {2019},
-  type = {Oral},
-  note = {To appear},
-  url = {https://fleuret.org/papers/tulyakov-et-al-iccv2019.pdf}
-}
 #################################################################
 
 
@@ -58,5 +42,20 @@ For training/test procedure, just execute:
 bash train.sh/test.sh
 
 #####################################################################
+Paper Reference
 
+@inproceedings{zhang2022discrete,
+  title={Discrete Time Convolution for Fast Event-Based Stereo},
+  author={Zhang, Kaixuan and Che, Kaiwei and Zhang, Jianguo and Cheng, Jie and Zhang, Ziyang and Guo, Qinghai and Leng, Luziwei},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={8676--8686},
+  year={2022}
+}
+
+
+Our code is developed based on the code from ICCV2019 paper "Learning an event sequence embedding 
+for dense event-based deep stereo"
+
+paper: https://openaccess.thecvf.com/content_ICCV_2019/papers/Tulyakov_Learning_an_Event_Sequence_Embedding_for_Dense_Event-Based_Deep_Stereo_ICCV_2019_paper.pdf
+code: https://github.com/tlkvstepan/event_stereo_ICCV2019
 
