@@ -1,11 +1,9 @@
-# Code
-___
+# Discrete time convolution for fast event-based stereo
 This code is a demo of our CVPR 2022 paper "Discrete time convolution for 
 fast event-based stereo".
 
 
 # dataset
-___
 Change the MVSEC/DSEC dataset address in dataset.py. 
 
 # cofr for mvsec
@@ -36,9 +34,8 @@ usage: DTC-SPADE
 For training/test procedure, just execute:
 bash train.sh/test.sh
 
-#####################################################################
-Paper Reference
 
+# Paper Reference
 @inproceedings{zhang2022discrete,
   title={Discrete Time Convolution for Fast Event-Based Stereo},
   author={Zhang, Kaixuan and Che, Kaiwei and Zhang, Jianguo and Cheng, Jie and Zhang, Ziyang and Guo, Qinghai and Leng, Luziwei},
