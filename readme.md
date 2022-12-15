@@ -36,12 +36,12 @@ bash train.sh/test.sh
 
 
 # Paper Reference
-@inproceedings{zhang2022discrete,
-  title={Discrete Time Convolution for Fast Event-Based Stereo},
-  author={Zhang, Kaixuan and Che, Kaiwei and Zhang, Jianguo and Cheng, Jie and Zhang, Ziyang and Guo, Qinghai and Leng, Luziwei},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={8676--8686},
-  year={2022}
+@inproceedings{zhang2022discrete,\
+ title={Discrete Time Convolution for Fast Event-Based Stereo},\
+ author={Zhang, Kaixuan and Che, Kaiwei and Zhang, Jianguo and Cheng, Jie and Zhang, Ziyang and Guo, Qinghai and Leng, Luziwei},\
+ booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},\
+ pages={8676--8686},\
+ year={2022}\
 }
 
 
