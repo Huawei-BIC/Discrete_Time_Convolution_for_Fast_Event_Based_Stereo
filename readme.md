@@ -6,6 +6,14 @@ fast event-based stereo".
 # dataset
 Change the MVSEC/DSEC dataset address in dataset.py. 
 
+Data preprocess for DSEC: \
+Follow from https://github.com/uzh-rpg/DSEC.
+
+Data process for MVSEC (SBT): \
+Step 1: From h5 file to npy file: follow from https://github.com/tlkvstepan/event_stereo_ICCV2019. \
+Step 2: Using SBT method to proccess npy file: `python code_of_mvsec/data_preprocess.py`
+
+
 # cofe for mvsec
 - code_of_mvsec/DTC_pds_for_mvsec \
   usage: DTC-pds
