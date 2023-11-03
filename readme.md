@@ -52,10 +52,13 @@ bash train.sh/test.sh
  year={2022}\
 }
 
-
 Our code is developed based on the code from ICCV2019 paper "Learning an event sequence embedding 
 for dense event-based deep stereo"
 
 paper: https://openaccess.thecvf.com/content_ICCV_2019/papers/Tulyakov_Learning_an_Event_Sequence_Embedding_for_Dense_Event-Based_Deep_Stereo_ICCV_2019_paper.pdf \
 code: https://github.com/tlkvstepan/event_stereo_ICCV2019
+
+
+# Liscence
+This open-source project is not an official Huawei product, and Huawei is not expected to provide support for this project.
 
